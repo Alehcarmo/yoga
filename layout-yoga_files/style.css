@@ -1,0 +1,98 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.figma {
+    margin: 195px 160px;
+}
+
+time {
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+label {
+    margin-left: 270px;
+}
+
+input {
+    display: block;
+    border-radius: 10px;
+    border: none;
+    background: #F7F7F7;
+    
+    
+}
+
+.submeter {
+    width: 340px;
+    height: 46px;
+    margin: auto;
+    margin-top: -51px;
+    font-size: 20px;
+}
+
+.submeter1 {
+    width: 340px;
+    height: 46px;
+    margin: 9px auto;
+    font-size: 20px;
+}
+
+.submeter2 {
+    display: block;
+    border-radius: 10px;
+    width: 94px;
+    height: 34px;
+    margin: 61px auto;
+    background-color: black;
+    color: aliceblue;
+}
+
+a {
+    margin: 25px 0 0 195px;
+    font-size: 22px;
+    color: black;
+}
+
+.rede {
+    width: 20px;
+    background-image: none;
+}
+
+.wifi {
+    width: 20px;
+  
+   
+   
+}
+
+.batery {
+    width: 30px;  
+}
+
+p {
+    font-size: 17px;
+    margin: 17px 50px;
+}
+
+strong {
+    font-size: 20px;
+    color: black;
+}
+
+.first-paragraph {
+    margin-left: 184px;
+    font-size: 25px;
+    font: 400px;
+}
+
+div {
+    margin-left: 135px;
+    
+}
+
+input::placeholder {
+    padding-left: 20px;
+}
+

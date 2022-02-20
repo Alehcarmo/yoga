@@ -1,0 +1,89 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+}
+
+div {
+    border: 1px solid;
+    color: #000;
+    padding: 10px;
+    margin-top: 20px;
+    width: 414px;
+    height: 896px;
+    
+}
+
+input {
+    display: block;
+    width: 330px;
+    height: 44px;
+    background-color: #E5E5E5;
+    border: none;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+
+.senha {
+    margin-top: 15px;
+}
+
+a {
+    display: block;
+    color: #000000;
+    margin: 16px 0 0 220px;
+    font-size: 18px;
+}
+
+button {
+    width: 94px;
+    height: 36px;
+    margin: 80px 140px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.figma {
+    display: block;
+    margin: 115px auto;
+}
+
+.first-link {
+    margin-top: -20px;
+    margin-left: 54px;
+    color: #969696;
+}
+
+block {
+    margin-left: 290px;
+}
+
+strong {
+    color: #000000;
+}
+
+.rede {
+    margin-left: 290px;
+}
+
+input::placeholder {
+    padding-left: 30px;
+}
+
+p {
+    margin: 55px;
+    margin-left: 178px;
+    font-size: 30px;
+}
+
+.info1 {
+    margin-left: 137px;
+}
+
+.container {
+    margin-left: 500px;
+}
+
