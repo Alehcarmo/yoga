@@ -8,6 +8,6 @@ Layout do projeto yoga concluído.<br><br>
 
 Tecnologias usadas no projeto:
 
-[x] HTML
+[x] HTML<br>
 [x] CSS
  
