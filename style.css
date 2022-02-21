@@ -80,10 +80,15 @@ p {
 }
 
 .info1 {
-    margin-left: 137px;
+    margin-left: 120px;
 }
 
 .container {
     margin-left: 500px;
+}
+
+.info2 {
+    padding: 0 20px;
+    
 }
 
